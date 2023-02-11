@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/felixse/FluentTerminal/stargazers"><img src="https://img.shields.io/github/stars/felixse/FluentTerminal?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/felixse/FluentTerminal/issues"><img src="https://img.shields.io/github/issues/felixse/FluentTerminal?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/felixse/FluentTerminal/contributors"><img src="https://img.shields.io/github/contributors/felixse/FluentTerminal?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/FluentTerminal/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/FluentTerminal?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/FluentTerminal/issues"><img src="https://img.shields.io/github/issues/catppuccin/FluentTerminal?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/FluentTerminal/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/FluentTerminal?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
