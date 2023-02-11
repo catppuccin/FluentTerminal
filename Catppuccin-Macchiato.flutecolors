@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "Catppuccin-Macchiato",
+  "Author": "mrdoge515",
+  "Colors": {
+    "Foreground": "#CAD3F5",
+    "Background": "#24273A",
+    "Cursor": "#F4DBD6",
+    "CursorAccent": "#181926",
+    "Selection": "rgba(91, 96, 120, 0.30078125)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#494D64",
+    "Red": "#ED8796",
+    "Green": "#A6DA95",
+    "Yellow": "#EED49F",
+    "Blue": "#8AADF4",
+    "Magenta": "#F5BDE6",
+    "Cyan": "#8BD5CA",
+    "White": "#B8C0E0",
+    "BrightBlack": "#5B6078",
+    "BrightRed": "#ED8796",
+    "BrightGreen": "#A6DA95",
+    "BrightYellow": "#EED49F",
+    "BrightBlue": "#8AADF4",
+    "BrightMagenta": "#F5BDE6",
+    "BrightCyan": "#8BD5CA",
+    "BrightWhite": "#A5ADCB"
+  },
+  "BackgroundImage": null
+}

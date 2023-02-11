@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "Catppuccin-Frappé",
+  "Author": "mrdoge515",
+  "Colors": {
+    "Foreground": "#C6D0F5",
+    "Background": "#303446",
+    "Cursor": "#F2D5CF",
+    "CursorAccent": "#232634",
+    "Selection": "rgba(98, 104, 128, 0.30078125)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#51576D",
+    "Red": "#E78284",
+    "Green": "#A6D189",
+    "Yellow": "#E5C890",
+    "Blue": "#8CAAEE",
+    "Magenta": "#F4B8E4",
+    "Cyan": "#81C8BE",
+    "White": "#B5BFE2",
+    "BrightBlack": "#626880",
+    "BrightRed": "#E78284",
+    "BrightGreen": "#A6D189",
+    "BrightYellow": "#E5C890",
+    "BrightBlue": "#8CAAEE",
+    "BrightMagenta": "#F4B8E4",
+    "BrightCyan": "#81C8BE",
+    "BrightWhite": "#A5ADCE"
+  },
+  "BackgroundImage": null
+}

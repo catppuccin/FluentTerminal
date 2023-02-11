@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "Catppuccin-Mocha",
+  "Author": "mrdoge515",
+  "Colors": {
+    "Foreground": "#CDD6F4",
+    "Background": "#1E1E2E",
+    "Cursor": "#F5E0DC",
+    "CursorAccent": "#11111B",
+    "Selection": "rgba(88, 91, 112, 0.30078125)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#45475A",
+    "Red": "#F38BA8",
+    "Green": "#A6E3A1",
+    "Yellow": "#F9E2AF",
+    "Blue": "#89B4FA",
+    "Magenta": "#F5C2E7",
+    "Cyan": "#94E2D5",
+    "White": "#BAC2DE",
+    "BrightBlack": "#585B70",
+    "BrightRed": "#F38BA8",
+    "BrightGreen": "#A6E3A1",
+    "BrightYellow": "#F9E2AF",
+    "BrightBlue": "#89B4FA",
+    "BrightMagenta": "#F5C2E7",
+    "BrightCyan": "#94E2D5",
+    "BrightWhite": "#A6ADC8"
+  },
+  "BackgroundImage": null
+}
