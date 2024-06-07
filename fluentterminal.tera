@@ -1,0 +1,38 @@
+---
+whiskers:
+  version: "2.3.0"
+  matrix:
+   - flavor
+  filename: "Catppuccin-{{ flavor.name }}.flutecolors"
+---
+{
+  "EncodedImage": "",
+  "Name": "Catppuccin-{{ flavor.name }}",
+  "Author": "mrdoge515",
+  "Colors": {
+    "Foreground": "#{{ text.hex }}",
+    "Background": "#{{ base.hex }}",
+    "Cursor": "#{{ rosewater.hex }}",
+    "CursorAccent": "#{{ crust.hex }}",
+    "Selection": "{{ surface2 | mod(opacity=0.30) | css_rgba }}",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#{{ if(cond=flavor.dark, t=surface1.hex, f=subtext1.hex) }}",
+    "Red": "#{{ red.hex }}",
+    "Green": "#{{ green.hex }}",
+    "Yellow": "#{{ yellow.hex }}",
+    "Blue": "#{{ blue.hex }}",
+    "Magenta": "#{{ pink.hex }}",
+    "Cyan": "#{{ teal.hex }}",
+    "White": "#{{ if(cond=flavor.dark, t=subtext1.hex, f=surface2.hex) }}",
+    "BrightBlack": "#{{ if(cond=flavor.dark, t=surface2.hex, f=subtext0.hex) }}",
+    "BrightRed": "#{{ red.hex }}",
+    "BrightGreen": "#{{ green.hex }}",
+    "BrightYellow": "#{{ yellow.hex }}",
+    "BrightBlue": "#{{ blue.hex }}",
+    "BrightMagenta": "#{{ pink.hex }}",
+    "BrightCyan": "#{{ teal.hex }}",
+    "BrightWhite": "#{{ if(cond=flavor.dark, t=subtext0.hex, f=surface1.hex) }}"
+  },
+  "BackgroundImage": null
+}
