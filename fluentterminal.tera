@@ -3,12 +3,12 @@ whiskers:
   version: "2.3.0"
   matrix:
    - flavor
-  filename: "Catppuccin-{{ flavor.name }}.flutecolors"
+  filename: "themes/catppuccin-{{ flavor.identifier }}.flutecolors"
 ---
 {
   "EncodedImage": "",
   "Name": "Catppuccin-{{ flavor.name }}",
-  "Author": "mrdoge515",
+  "Author": "Catppuccin",
   "Colors": {
     "Foreground": "#{{ text.hex }}",
     "Background": "#{{ base.hex }}",
