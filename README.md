@@ -36,11 +36,10 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `Themes > Import`
-4. Navigate to cloned repository and select a flavor
-5. Click on `Save` button and then on `Set Default`
+1. Download your preferred flavor(s) from [`themes/`](./themes/).
+2. Open FluentTerminal's settings and navigate to **Themes** > **Import**.
+3. Select your downloaded flavor from Step 1.
+4. Click the **Save** button and then **Set Default**.
 
 ## 💝 Thanks to
 
